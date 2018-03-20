@@ -11,6 +11,6 @@ in an autocross event. Here is a link to the first Jupyter Notebook
 [eCones.ipynb](https://nbviewer.jupyter.org/github/KenBury/autocross/blob/master/eCones.ipynb).
 
 Here is where I implemented an segmented approach to applying the vector fields.
-A path was found around the 2017 Nationals east course. [eConesSegment.ipynb]https://nbviewer.jupyter.org/github/KenBury/autocross/blob/master/eConesSegment.ipynb
+A path was found around the 2017 Nationals east course. [eConesSegment.ipynb](https://nbviewer.jupyter.org/github/KenBury/autocross/blob/master/eConesSegment.ipynb)
 
 Ken
